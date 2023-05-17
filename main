@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First Web Page</title>
+</head>
+<body>
+  <h1>Welcome to My Web Page</h1>
+  <p>This is a paragraph of text.</p>
+  <img src="image.jpg" alt="Example Image">
+  <ul>
+    <li>First item</li>
+    <li>Second item</li>
+    <li>Third item</li>
+  </ul>
+</body>
+</html>
